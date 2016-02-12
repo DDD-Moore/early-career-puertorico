@@ -32,9 +32,9 @@ There is no immigration control when traveling to/from Puerto Rico. Departure is
 
 > Aliens traveling to Puerto Rico are required to have a valid passport and an appropriate US visa (if required).
 
-[More information from US Customs and Border Protection](https://help.cbp.gov/app/answers/detail/a_id/980/~/needing-a-passport-to-enter-the-united-states-from-u.s.-territories)
+The responsibility will ultimately rest with the traveler to do any needed due diligence with the relevant travel/visa office. [More information from US Customs and Border Protection](https://help.cbp.gov/app/answers/detail/a_id/980/~/needing-a-passport-to-enter-the-united-states-from-u.s.-territories).
 
-The responsibility will ultimately rest with the traveler to do any needed due diligence with the relevant travel/visa office.
+
 
 **Health Concerns for Travel Puerto Rico**
 
