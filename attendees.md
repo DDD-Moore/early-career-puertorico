@@ -8,7 +8,7 @@ Each **Moore-Sloan Data Science Environment** can send six PEC researchers from 
 
 ### More Details and Explanation
 
-* The idea behind including “early career researchers” was to in inclusive of those individuals that not formally called postdocs but hold research positions and are early in their career (research scientists, research engineers, data scientists, etc.) We aren’t picky about the title, but rather are interested in getting folks at a similar level of experience and place in their career.
+* The idea behind including “early career researchers” was to be inclusive of those individuals that not formally called postdocs but hold research positions and are early in their career (research scientists, research engineers, data scientists, etc.) We aren’t picky about the title, but rather are interested in getting folks at a similar level of experience and place in their career.
 
 * PEC researchers at DSEs who happen to be ethnographers are welcome to come as participants. It should be clear that this event is not part of the DSE study, and they should plan to be full participants and set their DSE ethnographer role aside. The symposium is not part of the DSE study, but instead a networking and learning event.
 
