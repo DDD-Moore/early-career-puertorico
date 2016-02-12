@@ -2,6 +2,8 @@
 
 **_May 31 - June 2, 2016 in Puerto Rico_**
 
+<a href="http://www.wyndhamriomar.com/"><img src="https://github.com/DDD-Moore/early-career-puertorico/raw/master/hotel.jpg" align="center" height="100"></a>
+
 **What:** Postdoc and Early Career researcher Symposium (PECS)
 
 **Who:** About 50 PEC researchers funded by the Moore DDD Initiative. This includes PEC researchers at the three [Moore-Sloan Data Science Environments](http://msdse.org) and those that are members of [DDD Investigators'](https://www.moore.org/programs/science/data-driven-discovery/investigators) labs. See [attendees](https://github.com/DDD-Moore/early-career-puertorico/blob/master/attendees.md) for more details.
