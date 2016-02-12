@@ -54,10 +54,9 @@
 
 16:30 - 17:30 &nbsp;&nbsp;&nbsp;
 
-17:30 - 18:30	&nbsp;&nbsp;&nbsp;Break
+18:00 - 19:30 &nbsp;&nbsp;&nbsp;Dinner 
 
-18:30 - 22:00 &nbsp;&nbsp;&nbsp;Dinner 
-
+20:00 - 22:30 &nbsp;&nbsp;&nbsp;Laguna Grande Bio Bay Kayak Tour
 
 ## Thursday 2 June
 
