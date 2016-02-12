@@ -2,7 +2,7 @@
 
 **_May 31 - June 2, 2016 in Puerto Rico_**
 
-<a href="http://www.wyndhamriomar.com/"><img src="https://github.com/DDD-Moore/early-career-puertorico/raw/master/hotel.jpg" align="center" height="100"></a>
+<a href="http://www.wyndhamriomar.com/"><img src="https://github.com/DDD-Moore/early-career-puertorico/raw/master/hotel.jpg" height="300"></a>
 
 **What:** Postdoc and Early Career researcher Symposium (PECS)
 
