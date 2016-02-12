@@ -1,10 +1,10 @@
 ## Information on Attendees
 
-_**This page will be updated with attendee names and information once it's decided.**_
+_**This page will be updated with attendee names and information once available.**_
 
 Each **DDD investigator** can send two postdoc/early-career (PEC) researchers from their lab (sorry, no grad students). If a lab doesn't have two postdocs to send, we will open up extra spots to other investigators that might have more than two (permission of course).
 
-Each **Moore-Sloan Data Science Environment** can send six PEC researchers from their institution (no grad students or tenured/tenure track faculty). It’s up to the DSE to determine the process for deciding on the six researchers they will send. Please note that there may be one additional spot available per DSE depending on a few details to be determined. We will let you know as soon as possible if this is the case. In general, it might be wise to have a "waiting list" of PEC researchers just in case.
+Each **Moore-Sloan Data Science Environment** can send six PEC researchers from their institution (no grad students or tenured/tenure track faculty). It’s up to the DSE to determine the process for deciding on the six researchers they will send. Please note that there may be one additional spot available per DSE depending on a few details to be determined. We will let you know as soon as possible if this is possible. In general, it might be wise to have a "waiting list" of PEC researchers just in case.
 
 ### More Details and Explanation
 
