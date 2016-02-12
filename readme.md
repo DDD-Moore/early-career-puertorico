@@ -14,7 +14,7 @@ We will be co-located with PEC researchers from labs funded by the [Moore Marine
 
 **When:** May 30 - June 3, 2016 (3 day symposium + 1 travel day on either side)
 
-**Where:** Puerto Rico! We are finalizing the contract with the venue and will provide details soon. Suffice it to say you won't be disappointed!
+**Where:** Puerto Rico! We are in final negotiations but the likely location will be the [Wyndham Grand Rio Mar Beach Resort](http://www.wyndhamriomar.com/).
 
 ## Deadlines
 
