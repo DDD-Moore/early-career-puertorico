@@ -18,11 +18,29 @@ We will be co-located with PEC researchers from labs funded by the [Moore Marine
 
 ## Deadlines
 
-We need the final list of attendees by **Friday March 11**.
+We need the final list of [attendees](https://github.com/DDD-Moore/early-career-puertorico/blob/master/attendees.md) by **Friday March 11**.
 
 All attendees need to register by **Friday March 18**. Registration form will be sent via email.
 
-More details on Logistics (travel, preparation, etc.) to follow.
+More details on logistics (travel, preparation, etc.) to follow.
+
+## Of Note
+
+**International PEC researchers**
+
+There is no immigration control when traveling to/from Puerto Rico. Departure is like any airport in the US: a TSA identification check and security screening. (There is also an agriculture check of bags prior to check-in, similar to when departing Hawaii — no ID needed for this.) That said, the [San Juan Luis Muñoz Airport](http://www.san-juan-airport.com/) states:
+
+> Aliens traveling to Puerto Rico are required to have a valid passport and an appropriate US visa (if required).
+
+[More information from US Customs and Border Protection](https://help.cbp.gov/app/answers/detail/a_id/980/~/needing-a-passport-to-enter-the-united-states-from-u.s.-territories)
+
+The responsibility will ultimately rest with the traveler to do any needed due diligence with the relevant travel/visa office.
+
+**Health Concerns for Travel Puerto Rico**
+
+Check the [CDC website](http://wwwnc.cdc.gov/travel/destinations/traveler/none/puerto-rico) for the latest recommendations on traveling to Puerto Rico.
+
+The CDC also provides information specific to the Zika virus for the Caribbean: [Zika Virus in the Caribbean](http://wwwnc.cdc.gov/travel/notices/alert/zika-virus-caribbean)
 
 ---
 <a href="http://www.moore.org"><img src="https://github.com/DDD-Moore/early-career-puertorico/raw/master/moore-logo-color.png" align="right" height="75"></a>
