@@ -6,13 +6,13 @@
 
 **What:** Postdoc and Early Career Symposium (PECS)
 
-**Who:** About 50 early-career researchers funded by the Moore DDD Initiative. This includes researchers at the three [Moore-Sloan Data Science Environments](http://msdse.org) and those that are members of [DDD Investigators'](https://www.moore.org/programs/science/data-driven-discovery/investigators) labs. See [attendees](https://github.com/DDD-Moore/early-career-puertorico/blob/master/attendees.md) for more details.
+**Who:** About 50 early career researchers funded by the Moore DDD Initiative. This includes researchers at the three [Moore-Sloan Data Science Environments](http://msdse.org) and those that are members of [DDD Investigators'](https://www.moore.org/programs/science/data-driven-discovery/investigators) labs. See [attendees](https://github.com/DDD-Moore/early-career-puertorico/blob/master/attendees.md) for more details.
 
 **Why:** You are all smart, driven individuals at the earlier stages of your careers. We want you to meet each other, learn from one another, and potentially work together now or in the future. We are interested in fostering a cohort of data science researchers that will hopefully persist well beyond the bounds of the meeting. 
 
 We want your help in crafting the event! The agenda will include a few interesting speakers, a panel or two on subjects relevant to the broader group, copious breaks and opportunities for informal interactions, a lot of talk about science, methods, and data, and plenty of time to enjoy the ambiance of Puerto Rico.
 
-We will be co-located with early-career researchers from labs funded by the [Moore Marine Microbiology Initiative](https://www.moore.org/programs/science/marine-microbiology-initiative). We will be interacting informally with their group on Tuesday and Thursday (e.g., meals, activities) and more formally on Wednesday. Details to follow.
+We will be co-located with early career researchers from labs funded by the [Moore Marine Microbiology Initiative](https://www.moore.org/programs/science/marine-microbiology-initiative). We will be interacting informally with their group on Tuesday and Thursday (e.g., meals, activities) and more formally on Wednesday. Details to follow.
 
 **When:** May 30 - June 3, 2016 (3 day symposium + 1 travel day on either side)
 
