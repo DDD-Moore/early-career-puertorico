@@ -22,9 +22,7 @@
 
 15:00 - 15:30 &nbsp;&nbsp;&nbsp;Break
 
-15:30 - 16:30 &nbsp;&nbsp;&nbsp;
-
-16:30 - 17:30 &nbsp;&nbsp;&nbsp;
+15:30 - 17:30 &nbsp;&nbsp;&nbsp;
 
 17:30 - 18:30	&nbsp;&nbsp;&nbsp;Break
 
@@ -33,6 +31,7 @@
 
 ## Wednesday 1 June 
 
+_Overlap day with Marine Microbial Initiative Early Career researchers_
 
 08:00 - 08:30 &nbsp;&nbsp;&nbsp;Breakfast, coffee
 
@@ -46,13 +45,7 @@
 
 12:00 - 13:30	&nbsp;&nbsp;&nbsp;Lunch
 
-13:30 - 15:00 &nbsp;&nbsp;&nbsp;
-
-15:00 - 15:30 &nbsp;&nbsp;&nbsp;
-
-15:30 - 16:30 &nbsp;&nbsp;&nbsp;
-
-16:30 - 17:30 &nbsp;&nbsp;&nbsp;
+13:30 - 17:30 &nbsp;&nbsp;&nbsp;
 
 18:00 - 19:30 &nbsp;&nbsp;&nbsp;Dinner 
 
@@ -77,8 +70,6 @@
 
 14:30 - 15:00  &nbsp;&nbsp;&nbsp;Break
 
-15:00 - 16:00  &nbsp;&nbsp;&nbsp;
-
-16:00 - 17:00	&nbsp;&nbsp;&nbsp;Closing thoughts from the group
+15:00 - 17:00  &nbsp;&nbsp;&nbsp;
 
 17:00 &nbsp;&nbsp;&nbsp;Adjourn
