@@ -20,7 +20,7 @@ We will be co-located with early career researchers from labs funded by the [Moo
 
 ## Deadlines
 
-We need the final list of [attendees](https://github.com/DDD-Moore/early-career-puertorico/blob/master/attendees.md) by **Friday March 11**.  Please work with your DSE leaders or DDD Investigator for the process they develop on selecting participants.  *Moore will not select attendees.*
+We need the final list of [attendees](https://github.com/DDD-Moore/early-career-puertorico/blob/master/attendees.md) by **Friday March 11**.  Please check with your DSE leaders or DDD Investigator for the process they develop on selecting participants.  *Moore will not select attendees.*
 
 All attendees need to register by **Friday March 18**. Registration form will be sent via email.
 
@@ -35,9 +35,6 @@ The responsibility for determining the ability of the participant to attend ulti
 From what we know, there is no immigration control when traveling to/from Puerto Rico as departure/arrival is like any airport in the US: a TSA identification check and security screening. (There is also an agriculture check of bags prior to check-in, similar to when departing Hawaii — no ID needed for this.) That said, the [San Juan Luis Muñoz Airport](http://www.san-juan-airport.com/) states:
 
 > Aliens traveling to Puerto Rico are required to have a valid passport and an appropriate US visa (if required).
-
-
-
 
 
 **Health Concerns for Travel Puerto Rico**
