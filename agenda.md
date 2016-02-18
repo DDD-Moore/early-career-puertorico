@@ -31,7 +31,7 @@
 
 ## Wednesday 1 June 
 
-_Overlap day with Marine Microbial Initiative Early Career researchers_
+_Overlap day with Marine Microbiology Initiative Early Career researchers_
 
 08:00 - 08:30 &nbsp;&nbsp;&nbsp;Breakfast, coffee
 
