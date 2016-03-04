@@ -8,7 +8,7 @@
 
 **Who:** About 50 early career researchers funded by the Moore DDD Initiative. This includes researchers at the three [Moore-Sloan Data Science Environments](http://msdse.org) and those that are members of [DDD Investigators'](https://www.moore.org/programs/science/data-driven-discovery/investigators) labs. See [attendees](https://github.com/DDD-Moore/early-career-puertorico/blob/master/attendees.md) for more details.
 
-**Why:** You are all smart, driven individuals at the earlier stages of your careers. We want you to meet each other, learn from one another, and potentially work together now or in the future. We are interested in fostering a cohort of data science researchers that will hopefully persist well beyond the bounds of the meeting. 
+**Why:** We want to assemble a group of smart, driven individuals at the earlier stages of your careers to meet each other, learn from one another, and potentially work together now or in the future. We are interested in fostering a cohort of data science researchers that will hopefully persist well beyond the bounds of the meeting. 
 
 We want your help in crafting the event! The agenda will include a few interesting speakers, a panel or two on subjects relevant to the broader group, copious breaks and opportunities for informal interactions, a lot of talk about science, methods, and data, and plenty of time to enjoy the ambiance of Puerto Rico.
 
@@ -22,9 +22,7 @@ We will be co-located with early career researchers from labs funded by the [Moo
 
 We need the final list of [attendees](https://github.com/DDD-Moore/early-career-puertorico/blob/master/attendees.md) by **Friday March 11**.  Please check with your DSE leaders or DDD Investigator for the process they develop on selecting participants.  *Moore will not select attendees.*
 
-All attendees need to register by **Friday March 18**. Registration form will be sent via email.
-
-More details on logistics (travel, preparation, etc.) to follow.
+A registration form will be sent via email. More details on logistics (travel, preparation, etc.) to follow.
 
 ## Of Note
 
