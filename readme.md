@@ -16,7 +16,7 @@ We will be co-located with early career researchers from labs funded by the [Moo
 
 **When:** May 30 - June 3, 2016 (3 day symposium + 1 travel day on either side)
 
-**Where:** Puerto Rico! We are in final negotiations but the likely location will be the [Wyndham Grand Rio Mar Beach Resort](http://www.wyndhamriomar.com/).
+**Where:** [Wyndham Grand Rio Mar Beach Resort](http://www.wyndhamriomar.com/) in Puerto Rico!
 
 ## Deadlines
 
