@@ -4,7 +4,7 @@
 
 **Where:** Puerto Rico!
 
-### Accomodations
+### Accommodations
 
 [Wyndham Grand Rio Mar Beach Resort](http://www.wyndhamriomar.com/). We have reserved rooms for all registered attendees for May 30 - June 3. 
 
