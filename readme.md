@@ -6,7 +6,7 @@
 
 <a href="http://www.wyndhamriomar.com/"><img src="https://github.com/DDD-Moore/early-career-puertorico/raw/master/hotel.jpg" height="300"></a>
 
-**Who:** About 50 early career researchers funded by the Moore DDD Initiative. This includes researchers at the three [Moore-Sloan Data Science Environments](http://msdse.org), members of DDD Investigators' labs, and researchers affiliated with one of our "Practices" grants (Jupyter, Julia Language, or Data Carpentry). <!-- See [attendees](https://github.com/DDD-Moore/early-career-puertorico/blob/master/attendees.md) for more details. -->
+**Who:** About 50 early career researchers funded by the Moore DDD Initiative. This includes researchers at the three [Moore-Sloan Data Science Environments](http://msdse.org), members of DDD Investigators' labs, and researchers affiliated with one of our "Practices" grants (Jupyter, Julia Language, or Data Carpentry). 
 
 **Why:** We want to assemble a group of smart, driven individuals at the earlier stages of your careers to meet each other, learn from one another, and potentially work together now or in the future. We are interested in fostering a cohort of data science researchers that will hopefully persist well beyond the bounds of the meeting. 
 

@@ -6,11 +6,13 @@
 
 ### Accomodations
 
-[Wyndham Grand Rio Mar Beach Resort](http://www.wyndhamriomar.com/). We have reserved rooms for all registered attendees. We have secured reduced rates for those that would like to stay before or after the symposium. The rate is $149 per night plus taxes and fees, and is valid for May 27-29 and June 3-5. You must call the Wyndham and book this separately; mention that you are part of the Moore Foundation group to receive the discounted rate. 
+[Wyndham Grand Rio Mar Beach Resort](http://www.wyndhamriomar.com/). We have reserved rooms for all registered attendees for May 30 - June 3. 
+
+**Want to stay before or after?** We have secured reduced rates for those that would like to arrive before or stay after the symposium. The rate is $149 per night plus taxes and fees, and is valid for May 27-29 and June 3-5. You must call the Wyndham and book this separately; mention that you are part of the Moore Foundation group to receive the discounted rate. 
 
 - Phone: +1-800-474-6627
 - Email: [Reservations-riomar@wyndham.com](mailto:reservations-riomar@wyndham.com)
-<!-- Hotel confirmation numbers are available [here](https://github.com/DDD-Moore/2015-symposium/blob/master/HotelConfirmations.md). Check-in time is 4 pm (see [Reservation Policy](http://www.watertownseattle.com/reservation-policy/reservation-policy.htm)). -->
+
 
 ### Flights 
 
