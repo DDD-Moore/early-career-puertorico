@@ -20,7 +20,11 @@ Please book your flights as soon as possible. You should purchase the lowest rea
 
 ### Expenses & Reimbursement
 
-You will be required to fill out an expense form after the event: **[Moore Early Career Expense Form (xls)](http://)**. You also need to submit a [W9](http://) to receive reimbursement. If you are a California resident, you also need to submit a [form name](http://). 
+You will be required to fill out an expense form after the event. Please submit the following three forms:
+
+- [Moore Early Career Expense Form (xlsx)](https://github.com/DDD-Moore/early-career-puertorico/blob/master/Reimbursement_Form.xlsx?raw=true)
+- [W-9 Tax form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/W-9.pdf) 
+- **Either** [CA-590 form for California residents (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/CA_590.pdf) **OR** a [CA-587 form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/CA_587.pdf) for non-California residents.
 
 Below is a description of what expenses will be covered and how. 
 
