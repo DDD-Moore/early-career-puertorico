@@ -2,7 +2,7 @@
 
 **_May 31 - June 2, 2016 in Puerto Rico_**
 
-### [Logistics](https://github.com/DDD-Moore-early-career-puertorico/blob/master/logistics.md)
+### [Logistics](https://github.com/DDD-Moore/early-career-puertorico/blob/master/logistics.md)
 
 <a href="http://www.wyndhamriomar.com/"><img src="https://github.com/DDD-Moore/early-career-puertorico/raw/master/hotel.jpg" height="300"></a>
 
