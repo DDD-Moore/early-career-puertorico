@@ -28,7 +28,7 @@ You will be required to fill out an expense form after the event. Please submit 
 
 Below is a description of what expenses will be covered and how. 
 
-_** Note: Receipts required for all expenses over $75 **_
+_**Note: Receipts required for all expenses over $75**_
 
 **Flight**: GBMF will cover flight expenses (see booking information above). You need to submit a receipt for reimbursement.
 
