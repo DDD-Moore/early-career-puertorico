@@ -8,10 +8,7 @@
 
 [Wyndham Grand Rio Mar Beach Resort](http://www.wyndhamriomar.com/). We have reserved rooms for all registered attendees for May 30 - June 3. 
 
-**Want to stay before or after?** We have secured reduced rates for those that would like to arrive before or stay after the symposium. The rate is $149 per night plus taxes and fees, and is valid for May 27-29 and June 3-5. You must call the Wyndham and book this separately; mention that you are part of the Moore Foundation group to receive the discounted rate. 
-
-- Phone: +1-800-474-6627
-- Email: [Reservations-riomar@wyndham.com](mailto:reservations-riomar@wyndham.com)
+**Want to stay before or after?** We have secured reduced rates for those that would like to arrive before or stay after the symposium. The rate is $149 per night plus taxes and fees, and is valid for May 27-29 and June 3-5. You must call the Wyndham and book this separately; mention that you are part of the Moore Foundation group to receive the discounted rate. Phone: +1-800-474-6627.
 
 
 ### Flights 
@@ -20,7 +17,7 @@ Please book your flights as soon as possible. You should purchase the lowest rea
 
 ### Expenses & Reimbursement
 
-You will be required to fill out an expense form after the event. Please submit the following three forms:
+You will be required to fill out an expense form after the event. Please submit the following **three forms**:
 
 - [Moore Early Career Expense Form (xlsx)](https://github.com/DDD-Moore/early-career-puertorico/blob/master/Reimbursement_Form.xlsx?raw=true)
 - [W-9 Tax form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/W-9.pdf) 
@@ -42,7 +39,7 @@ _**Note: Receipts required for all expenses over $75**_
 
 ## Of Note
 
-**International PEC researchers**
+**International Researchers**
 
 The responsibility for determining the ability of the participant to attend ultimately rests with the traveler. Please do any needed due diligence with your relevant travel/visa office. [More information from US Customs and Border Protection](https://help.cbp.gov/app/answers/detail/a_id/980/~/needing-a-passport-to-enter-the-united-states-from-u.s.-territories).
 
