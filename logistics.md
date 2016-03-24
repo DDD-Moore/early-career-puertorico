@@ -13,7 +13,7 @@
 
 ### Flights 
 
-Please book your flights as soon as possible. You should purchase the lowest reasonably available economy airfare with a major commercial carrier. We will reimburse you for your flights after the event. If you need reimbursement before then, [please let us know](mailto:carly.strasser@moore.org).
+Please book your flights as soon as possible. Plan to arrive no later than Monday evening and depart no earlier than Friday morning. You should purchase the lowest reasonably available economy airfare with a major commercial carrier. We will reimburse you for your flights after the event. If you need reimbursement before then, [please let us know](mailto:carly.strasser@moore.org).
 
 ### Expenses & Reimbursement
 
