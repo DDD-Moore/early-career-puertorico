@@ -31,7 +31,7 @@ _**Note: Receipts required for all expenses over $75**_
 
 **Hotel**: GBMF will cover costs for your hotel room for May 30 check-in - June 2 check-out (minus incidentals). Additional nights are available at a reduced rate; you will be responsible for any additional nights.
 
-**Food**: GBMF will be providing meals during the symposium, plus a meal stipend for your two travel days. Receipts are not necessary for food costs.
+**Food**: GBMF will be providing meals during the symposium, plus a meal stipend for your two travel days ($50 max per day). Receipts are not necessary for food costs.
 
 **Other expenses**: GBMF will cover all other reasonable expenses, including ground transportation, incidentals, baggage fees etc. Receipts will be required for all expenses greater than $75. 
 
