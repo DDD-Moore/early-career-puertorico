@@ -28,15 +28,17 @@ You will be required to fill out an expense form after the event. Please submit 
 
 Below is a description of what expenses will be covered and how. 
 
-**Flight**: GBMF will cover flight expenses.
+_** Note: Receipts required for all expenses over $75 **_
+
+**Flight**: GBMF will cover flight expenses (see booking information above). You need to submit a receipt for reimbursement.
 
 **Hotel**: GBMF will cover costs for your hotel room for May 30 check-in - June 2 check-out (minus incidentals). Additional nights are available at a reduced rate; you will be responsible for any additional nights.
 
 **Food**: GBMF will be providing meals during the symposium, plus a meal stipend for your two travel days. Receipts are not necessary for food costs.
 
-**Other expenses**: GBMF will cover all other reasonable expenses, including ground transportation, incidentals, baggage fees etc. Receipts will be required for all expenses greater than $50. 
+**Other expenses**: GBMF will cover all other reasonable expenses, including ground transportation, incidentals, baggage fees etc. Receipts will be required for all expenses greater than $75. 
 
-**Family care**: GBMF is pleased to offer family care support of up to $300 maximum to attendees. The intention of these funds is to cover additional care for family members outside of regularly scheduled work hours and for the time required for travel to the workshop (e.g. evening or extended day care). If you would like to request family care support, please outline the estimated costs during the workshop and send them to Carly (carly.strasser@moore.org). You will not be required to provide receipts or otherwise substantiate the actual amount of costs that you incur. You should consult your tax advisor to determine the appropriate tax treatment of any payments received.
+**Family care**: GBMF is pleased to offer family care support of up to $75 per day ($375 maximum) to attendees. The intention of these funds is to cover additional care for family members outside of regularly scheduled work hours and for the time required for travel to the workshop (e.g. evening or extended day care). You will not be required to provide receipts or otherwise substantiate the actual amount of costs that you incur. You should consult your tax advisor to determine the appropriate tax treatment of any payments received.
 
 ## Of Note
 
