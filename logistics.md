@@ -21,7 +21,7 @@ You will be required to fill out an expense form after the event. Please submit 
 
 - [Moore Early Career Expense Form (xlsx)](https://github.com/DDD-Moore/early-career-puertorico/blob/master/Reimbursement_Form.xlsx?raw=true)
 - [W-9 Tax form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/W-9.pdf) 
-- **Either** [CA-590 form for California residents (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/CA_590.pdf) **OR** a [CA-587 form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/CA_587.pdf) for non-California residents.
+- **Either** [CA-590 form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/CA_590.pdf) for California residents **OR** a [CA-587 form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/CA_587.pdf) for non-California residents.
 
 Below is a description of what expenses will be covered and how. 
 
