@@ -6,7 +6,7 @@
 
 ### Accommodations
 
-[Wyndham Grand Rio Mar Beach Resort](http://www.wyndhamriomar.com/). We have reserved rooms for all registered attendees for May 30 - June 3. 
+[Wyndham Grand Rio Mar Beach Resort](http://www.wyndhamriomar.com/). We have reserved rooms for all registered attendees for May 30 - June 3 (1 attendee per room).
 
 **Want to stay before or after?** We have secured reduced rates for those that would like to arrive before or stay after the symposium. The rate is $149 per night plus taxes and fees, and is valid for May 27-29 and June 3-5. You must call the Wyndham and book this separately; mention that you are part of the Moore Foundation group to receive the discounted rate. Phone: +1-800-474-6627.
 
