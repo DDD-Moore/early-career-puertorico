@@ -1,3 +1,40 @@
+## Confirmed Attendees 
+
+_More details/affiliations to follow_
+
+- Nicholas Adams
+- Joakim Anden
+- Garret Christensen
+- Michael Correll
+- Kyle Cranmer
+- Harish Doraiswamy
+- Jes Ford
+- Stuart Geiger
+- David Gerard
+- Nathan Goldbaum
+- Bernease Herman
+- Daniel Himmelstein
+- Joyce Hsiao
+- Daniela Huppenkothen
+- Fatma Imamoglu
+- Vaughn Iverson
+- Stefan Karpinski
+- Meagan Lang
+- Roy Lederman
+- Heewook Lee
+- Tamer Mansour
+- Brian McFee
+- Andreas Mueller
+- Brett Naul
+- Laura Noren
+- Nicolas Pégard
+- Min Ragan-Kelley
+- Mingfu Shao
+- Jaclyn Taroni
+- Lei Tian
+- Gao Wang
+- April Wright
+
 ## Information on Attendees
 
 _**This page will be updated with attendee names and information once available.**_
