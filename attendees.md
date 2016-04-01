@@ -35,9 +35,7 @@ _More details/affiliations to follow_
 - Gao Wang
 - April Wright
 
-## Information on Attendees
-
-_**This page will be updated with attendee names and information once available.**_
+## Information on how attendees were chosen
 
 Each **DDD Investigator** can send two early career researchers from their lab (sorry, no grad students). If a lab doesn't have two postdocs to send, we will open up extra spots to other investigators that might have more than two (permission of course).
 
