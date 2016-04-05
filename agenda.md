@@ -12,7 +12,7 @@
 
 10:30 - 11:00 &nbsp;&nbsp;&nbsp;Break
 
-11:00 - 12:00 &nbsp;&nbsp;&nbsp;
+11:00 - 12:00 &nbsp;&nbsp;&nbsp;Poster activity
 
 12:00 - 13:30	&nbsp;&nbsp;&nbsp;Lunch 
 
