@@ -4,7 +4,7 @@
 
 17:30 - 19:30 &nbsp;&nbsp;&nbsp;Welcome reception
 
-## Tuesday 31 May
+## Tuesday 31 May  
 
 08:00 - 08:30 &nbsp;&nbsp;&nbsp;Breakfast, coffee
 
