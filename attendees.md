@@ -1,56 +1,49 @@
-## Confirmed Attendees 
+## Attendees
 
-_More details/affiliations to follow_
-
-- Nicholas Adams
-- Joakim Anden
-- Garret Christensen
-- Michael Correll
-- Kyle Cranmer
-- Harish Doraiswamy
-- Jes Ford
-- Stuart Geiger
-- David Gerard
-- Nathan Goldbaum
-- Bernease Herman
-- Daniel Himmelstein
-- Joyce Hsiao
-- Daniela Huppenkothen
-- Fatma Imamoglu
-- Vaughn Iverson
-- Stefan Karpinski
-- Meagan Lang
-- Roy Lederman
-- Heewook Lee
-- Tamer Mansour
-- Brian McFee
-- Andreas Mueller
-- Brett Naul
-- Laura Noren
-- Nicolas Pégard
-- Min Ragan-Kelley
-- Mingfu Shao
-- Jaclyn Taroni
-- Lei Tian
-- Gao Wang
-- April Wright
-
-## Information on how attendees were chosen
-
-Each **DDD Investigator** can send two early career researchers from their lab (sorry, no grad students). If a lab doesn't have two postdocs to send, we will open up extra spots to other investigators that might have more than two (permission of course).
-
-Each **Moore-Sloan Data Science Environment** can send six early career researchers from their institution (no grad students or tenured/tenure track faculty). It’s up to the DSE to determine the process for deciding on the six researchers they will send. Please note that there may be one additional spot available per DSE depending on a few details to be determined. We will let you know as soon as possible if this is possible. In general, it might be wise to have a "waiting list" of early career researchers just in case.
-
-### More Details and Explanation
-
-* The idea behind including “early career researchers” was to be inclusive of those individuals that not formally called postdocs but hold research positions and are early in their career (research scientists, research engineers, data scientists, etc.) We aren’t picky about the title, but rather are interested in getting folks at a similar level of experience and place in their career.
-
-* Early career researchers at DSEs who happen to be ethnographers are welcome to come as participants. It should be clear that this event is not part of the DSE study, and they should plan to be full participants and set their DSE ethnographer role aside. The symposium is not part of the DSE study, but instead a networking and learning event.
-
-* In 2016, we cannot accommodate additional early career researchers beyond the 2/investigator and 6/DSE, regardless of who is paying their way. Some explanation:
-	* This event is the first of its kind (for us), so it's serving as a bit of a prototype. Because of that, we'd like to keep it small. 
-	* We are holding it in conjunction with our Marine Microbiology Initiative colleagues and their ~40 participants. Plus our ~50 participants, this is a total of close to 100 early career researchers, which is a lot for us to manage given the program we are planning and the venue and location we selected.
-	* If we did allow the DSEs and Investigators to add participants at their own expense, we run the risk of significantly expanding the number of people to well beyond capacity. 
-	* We plan to hold something like this every year for the next two or three years, so this will not be the only opportunity for postdocs/early-career researchers to participate
-	* We expect that next year we will be able to accommodate more than the 48 we have slated for 2016. 
-
+- [Nicholas Adams](http://bids.berkeley.edu/people/nick- adams), UC Berkeley
+- [Joakim Anden](https://web.math.princeton.edu/~janden/), Princeton University
+- [Dino Bellugi](http://dinob.scripts.mit.edu/dinob/ www.esdlberkeley.com/), UC Berkeley
+- [Natalie Caulk](), Moore
+- [Garret Christensen](http://www.ocf.berkeley.edu/~garret), UC Berkeley
+- [Michael Correll](http://homes.cs.washington.edu/~mcorrell/), University of Washington
+- [Kyle Cranmer](http://theoryandpractice.org), New York University
+- [Harish Doraiswamy](http://www.harishd.com), New York University
+- [Stuart Geiger](http://stuartgeiger.com), UC Berkeley
+- [David Gerard](http://home.uchicago.edu/~dcgerard/home.html), University of Chicago
+- [Nathan Goldbaum](), NCSA, University of Illinois, Urbana- Champaign
+- [Dave Harris](), University of Florida
+- [Bryna Hazelton](), University of Washington
+- [Bernease Herman](), University of Washington
+- [Daniel Himmelstein](http://dhimmel.com), University of Pennsylvania
+- [Joyce Hsiao](http://Jhsiao999.github.io), University of Chicago
+- [Daniela Huppenkothen](http://www.huppenkothen.org), New York University
+- [Fatma Imamoglu](http://bids.berkeley.edu/people/fatma- imamoglu), UC Berkeley
+- [Vaughn Iverson](http://armbrustlab.ocean.washington.edu/people/iverson), University of Washington
+- [Stefan Karpinski](http://karpinski.org/), New York University
+- [Meagan Lang](http://www.meaganlang.com), NCSA, University of Illinois, Urbana- Champaign
+- [Roy Lederman](http://roy.lederman.name), Princeton University
+- [Heewook Lee](), Carnegie Mellon University
+- [Jie Liu](), University of Washington
+- [Tamer Mansour](), UC Davis
+- [Brian McFee](https://bmcfee.github.io), New York University
+- [Chris Mentzel](), Moore
+- [Francois Michonneau](http://francoismichonneau.net), University of Florida
+- [Andreas Mueller](http://amueller.io), New York University
+- [Brett Naul](), UC Berkeley
+- [Laura Noren](https://about.me/lauranoren), New York University
+- [Nicolas Pegard](http://www.nicolaspegard.com), UC Berkeley
+- [Min Ragan-Kelley](https://github.com/minrk), Simula Research Lab
+- [Felix Reidl](), North Carolina State
+- [Theo Rekatsinas](), Stanford University
+- [Henry Senyondo](http://weecology.org/user/30), University of Florida
+- [Mingfu Shao](http://lcbb.epfl.ch/people/shao), Carnegie Mellon University
+- [Allison Smith](http://www.kallisonsmith.us), University of Washington
+- [Valentina Staneva](), University of Washington
+- [Carly Strasser](http://carlystrasser.net), Moore
+- [Jaclyn Taroni](), University of Pennsylvania
+- [Christopher Tennant](https://sites.google.com/site/christopherjtennanthomepage/home), UC Berkeley
+- [Lei Tian](http://alum.mit.edu/www/lei_tian), UC Berkeley
+- [Stefan Van Der Walt](http://mentat.za.net), UC Berkeley
+- [Gao Wang](http://home.uchicago.edu/gaow), University of Chicago
+- [April Wright](http://wrightaprilm.github.io/pages/about_me.html), Iowa State University
+- [Ce Zhang](http://cs.stanford.edu/people/czhang/), Stanford University
