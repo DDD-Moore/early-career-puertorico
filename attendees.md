@@ -1,6 +1,6 @@
 ## Attendees
 
-- [Nicholas Adams](http://bids.berkeley.edu/people/nick- adams), UC Berkeley
+- [Nicholas Adams](http://bids.berkeley.edu/people/nick-adams), UC Berkeley
 - [Joakim Anden](https://web.math.princeton.edu/~janden/), Princeton University
 - [Dino Bellugi](http://dinob.scripts.mit.edu/dinob/ www.esdlberkeley.com/), UC Berkeley
 - [Natalie Caulk](), Moore
@@ -17,7 +17,7 @@
 - [Daniel Himmelstein](http://dhimmel.com), University of Pennsylvania
 - [Joyce Hsiao](http://Jhsiao999.github.io), University of Chicago
 - [Daniela Huppenkothen](http://www.huppenkothen.org), New York University
-- [Fatma Imamoglu](http://bids.berkeley.edu/people/fatma- imamoglu), UC Berkeley
+- [Fatma Imamoglu](http://bids.berkeley.edu/people/fatma-imamoglu), UC Berkeley
 - [Vaughn Iverson](http://armbrustlab.ocean.washington.edu/people/iverson), University of Washington
 - [Stefan Karpinski](http://karpinski.org/), New York University
 - [Meagan Lang](http://www.meaganlang.com), NCSA, University of Illinois, Urbana- Champaign
