@@ -15,10 +15,6 @@ We want your help in crafting the event! The agenda will include a few interesti
 We will be co-located with early career researchers from labs funded by the [Moore Marine Microbiology Initiative](https://www.moore.org/programs/science/marine-microbiology-initiative). We will be interacting informally with their group on Tuesday and Thursday (e.g., meals, activities) and more formally on Wednesday. Details to follow.
 
 
-## Deadlines
-
-Invited attendees should [register](http://goo.gl/forms/9l9yaZx064) by **Friday, April 1.**
-
 
 ---
 <a href="http://www.moore.org"><img src="https://github.com/DDD-Moore/early-career-puertorico/raw/master/moore-logo-color.png" align="right" height="75"></a>
