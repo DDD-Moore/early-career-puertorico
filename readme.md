@@ -2,9 +2,11 @@
 
 **_May 31 - June 2, 2016 in Puerto Rico_**
 
+**Attendees should provide flight information by Wed April 20 on [this spreadsheet](https://docs.google.com/spreadsheets/d/1le-bIvt5IEz0-VgrdsQ9QR6wj4zq0YQUzLR2wuQAqSE/edit)**
+
 ### [Logistics](https://github.com/DDD-Moore/early-career-puertorico/blob/master/logistics.md)
 
-<a href="http://www.wyndhamriomar.com/"><img src="https://github.com/DDD-Moore/early-career-puertorico/raw/master/hotel.jpg" height="300"></a>
+<!-- <a href="http://www.wyndhamriomar.com/"><img src="https://github.com/DDD-Moore/early-career-puertorico/raw/master/hotel.jpg" height="300"></a> -->
 
 **Who:** About 50 early career researchers funded by the Moore DDD Initiative. This includes researchers at the three [Moore-Sloan Data Science Environments](http://msdse.org), members of DDD Investigators' labs, and researchers affiliated with one of our "Practices" grants (Jupyter, Julia Language, or Data Carpentry). A list of confirmed attendees is available [here](https://github.com/DDD-Moore/early-career-puertorico/blob/master/attendees.md).
 
