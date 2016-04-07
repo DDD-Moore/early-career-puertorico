@@ -3,7 +3,7 @@
 - [Nicholas Adams](http://bids.berkeley.edu/people/nick-adams), UC Berkeley
 - [Joakim Anden](https://web.math.princeton.edu/~janden/), Princeton University
 - [Dino Bellugi](http://dinob.scripts.mit.edu/dinob/ www.esdlberkeley.com/), UC Berkeley
-- [Natalie Caulk](), Moore
+- [Natalie Caulk](https://www.moore.org/people-detail?personUrl=caulk), Moore
 - [Garret Christensen](http://www.ocf.berkeley.edu/~garret), UC Berkeley
 - [Michael Correll](http://homes.cs.washington.edu/~mcorrell/), University of Washington
 - [Kyle Cranmer](http://theoryandpractice.org), New York University
@@ -26,7 +26,7 @@
 - [Jie Liu](), University of Washington
 - [Tamer Mansour](), UC Davis
 - [Brian McFee](https://bmcfee.github.io), New York University
-- [Chris Mentzel](), Moore
+- [Chris Mentzel](https://www.moore.org/people-detail?personUrl=chrism), Moore
 - [Francois Michonneau](http://francoismichonneau.net), University of Florida
 - [Andreas Mueller](http://amueller.io), New York University
 - [Brett Naul](), UC Berkeley
