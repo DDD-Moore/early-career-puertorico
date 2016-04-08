@@ -6,7 +6,10 @@
 
 ### Go to [Logistics](https://github.com/DDD-Moore/early-career-puertorico/blob/master/logistics.md) Page
 
+--
 <!-- <a href="http://www.wyndhamriomar.com/"><img src="https://github.com/DDD-Moore/early-career-puertorico/raw/master/hotel.jpg" height="300"></a> -->
+
+### Basics
 
 **Who:** About 50 early career researchers funded by the Moore DDD Initiative. This includes researchers at the three [Moore-Sloan Data Science Environments](http://msdse.org), members of DDD Investigators' labs, and researchers affiliated with one of our "Practices" grants (Jupyter, Julia Language, or Data Carpentry). A list of confirmed attendees is available [here](https://github.com/DDD-Moore/early-career-puertorico/blob/master/attendees.md).
 
