@@ -13,7 +13,7 @@
 
 ### Flights 
 
-Please book your flights as soon as possible. Plan to arrive no later than Monday evening (May 30) and depart no earlier than Friday morning (June 3). You should purchase the lowest reasonably available economy airfare with a major commercial carrier. We will reimburse you for your flights after the event. If you need reimbursement before then, [please let us know](mailto:carly.strasser@moore.org).
+Please book your flights as soon as possible, and provide your flight details on [this spreadsheet](https://docs.google.com/spreadsheets/d/1le-bIvt5IEz0-VgrdsQ9QR6wj4zq0YQUzLR2wuQAqSE/edit#gid=0) by April 20. Plan to arrive no later than Monday evening (May 30) and depart no earlier than Friday morning (June 3). You should purchase the lowest reasonably available economy airfare with a major commercial carrier. We will reimburse you for your flights after the event. If you need reimbursement before then, [please let us know](mailto:carly.strasser@moore.org).
 
 ### Expenses & Reimbursement
 
