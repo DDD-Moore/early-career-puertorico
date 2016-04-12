@@ -21,7 +21,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 - Email: ddd@moore.org
 - Phone: 650-597-3282 (650-597-DATA)
-- Anonymously via this reporting form: (http://goo.gl/forms/nLtLzDqnkP)[http://goo.gl/forms/nLtLzDqnkP]
+- Anonymously via this reporting form: [goo.gl/forms/nLtLzDqnkP]([http://goo.gl/forms/nLtLzDqnkP)
 
 DDD representatives will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the symposium. We value your attendance.
 
