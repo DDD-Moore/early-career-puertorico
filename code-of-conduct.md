@@ -4,7 +4,7 @@ All attendees at our symposium are required to agree with the following code of 
 
 **Need Help?**
 
-Email us at ddd@moore.org, call 650-597-DATA, or find us at the symposium. 
+Email us at ddd@moore.org or marinemicro@moore.org, call 650-597-DATA, make an [anonymous report](http://goo.gl/forms/nLtLzDqnkP), or find us at the symposium. 
 
 ### The Quick Version
 The symposium organizers are dedicated to providing a harassment-free symposium experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of symposium participants in any form. Sexual language and imagery is not appropriate for any symposium venue, including talks, workshops, social events, Twitter and other online media. Symposium participants violating these rules may be sanctioned or expelled from the meeting at the discretion of the organisers.
@@ -17,13 +17,13 @@ Harassment includes offensive verbal comments related to gender, gender identity
 
 Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the symposium organizers may take any action they deem appropriate, including warning the offender or expulsion from the symposium.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a DDD representative immediately. You can make a report in the following ways:
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a DDD or MMI representative immediately. You can make a report in the following ways:
 
-- Email: ddd@moore.org
+- Email: ddd@moore.org or marinemicro@moore.org
 - Phone: 650-597-3282 (650-597-DATA)
 - Anonymously via this reporting form: [goo.gl/forms/nLtLzDqnkP](http://goo.gl/forms/nLtLzDqnkP)
 
-DDD representatives will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the symposium. We value your attendance.
+DDD or MMI representatives will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the symposium. We value your attendance.
 
 We expect participants to follow these rules at conference and workshop venues and symposium-related social events.
 
