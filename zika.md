@@ -16,7 +16,7 @@ We will be sharing program details shortly, and in the meantime, if you would li
 _Chris, Carly, and Natalie_
  
 
-**Futher reading:**
+**Further reading:**
 
 - LA Times article with [Tips to protect yourself from Zika](http://www.latimes.com/travel/deals/la-trb-zika-virus-tips-to-protect-yourself-20160411-story.html)
 - [CDC website on traveling to Puerto Rico](http://wwwnc.cdc.gov/travel/destinations/traveler/none/puerto-rico)
