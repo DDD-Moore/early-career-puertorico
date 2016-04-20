@@ -50,10 +50,4 @@ From what we know, there is no immigration control when traveling to/from Puerto
 
 **Health Concerns for Travel Puerto Rico**
 
-Again, the traveler is responsible for determining health risks with any travel.
-
-Check the [CDC website](http://wwwnc.cdc.gov/travel/destinations/traveler/none/puerto-rico) for the latest recommendations on traveling to Puerto Rico.
-
-The CDC also provides information specific to the Zika virus for the Caribbean: [Zika Virus in the Caribbean](http://wwwnc.cdc.gov/travel/notices/alert/zika-virus-caribbean)  
-
-*New York Times* article discussing relative risk factors while traveling: [An Informed Traveler is a Safer Traveler](http://www.nytimes.com/2016/02/28/travel/zika-virus-terrorism-travel-safety.html?_r=1)
+Again, the traveler is responsible for determining health risks with any travel. See the [information page on Zika](https://github.com/DDD-Moore/early-career-puertorico/blob/master/zika.md) for more information.
