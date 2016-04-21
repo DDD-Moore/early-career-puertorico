@@ -96,21 +96,20 @@ _Overlap day with Marine Microbiology Initiative Early Career researchers_
 
 Text will be here for the BOFs
 
-### BOF <a name="beach"></a>
+### Beachfront Agenda Planning <a name="beach"></a>
 
 Text will be here for the beachfront agenda planning
 
-### BOF <a name="poster"></a>
+### Poster Activity/Session <a name="poster"></a>
 
 Text will be here for the posters
 
-### BOF <a name="panel"></a>
+### Open Science Panel <a name="panel"></a>
 
 Text will be here for the Panel
 
-### BOF <a name="kayak"></a>
+### BioBay Kayak Trip <a name="kayak"></a>
 
-Text will be here for the Kayaks
-
+We have planned a kayaking trip to the Laguna Grande bioluminescent bay for the night of Wednesday, June 1. The trip is appropriate for all skill levels, and should take about 2.5 hours including a brief introduction to kayaking and the bio bay ecosystem. We have reserved a spot for all symposium attendees. If for any reason you wish to opt out of this trip, please [let us know](mailto:natalie.caulk@moore.org) asap. More information: [Fajardo Bio Bay](http://www.puertoricodaytrips.com/fajardo-bio-bay/)
 
 
