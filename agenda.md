@@ -2,7 +2,7 @@
 
 _**We want to hear your ideas for new topics or items already on the agenda. See [Issues](https://github.com/DDD-Moore/early-career-puertorico/issues) to comment or add your own topic.**_
 
-### Notes**
+### Notes
 
 - MMI = [Marine Micorbiology Initiative](https://www.moore.org/programs/science/marine-microbiology-initiative) at the Moore Foundation
 - No preparation is needed for the symposium
@@ -118,6 +118,6 @@ The two keynote speakers for Wednesday (Lang and Cranmer) will be joined by Carl
 
 We have planned a kayaking trip to the Laguna Grande bioluminescent bay for the night of Wednesday, June 1. The trip is appropriate for all skill levels, and should take about 2.5 hours including a brief introduction to kayaking and the bio bay ecosystem. We have reserved a spot for all symposium attendees. If for any reason you wish to opt out of this trip, please [let us know](mailto:natalie.caulk@moore.org) asap. More information: [Fajardo Bio Bay](http://www.puertoricodaytrips.com/fajardo-bio-bay/)
 
-## TBD: To Be Determined <a name="tbd"></a>
+### TBD: To Be Determined <a name="tbd"></a>
 
 We will determine as a group how to best use these blocks of time based on the Beachfront Agenda Planning session on Tuesday.
