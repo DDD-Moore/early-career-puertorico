@@ -5,6 +5,7 @@
 - MMI = [Marine Micorbiology Initiative](https://www.moore.org/programs/science/marine-microbiology-initiative) at the Moore Foundation
 - No preparation is needed for the symposium
 - The agenda is subject to change based on events at the symposium
+- **We want to hear your ideas** for new topics or items already on the agenda. **See [Issues](https://github.com/DDD-Moore/early-career-puertorico/issues)** to comment or add your own topic
 
 ## Monday 30 May
 
@@ -22,11 +23,11 @@
 
 12:00 - 13:30	&nbsp;&nbsp;&nbsp;Lunch 
 
-13:30 - 15:00 &nbsp;&nbsp;&nbsp;
+13:30 - 15:00 &nbsp;&nbsp;&nbsp;[Collaborative science](https://github.com/DDD-Moore/early-career-puertorico/issues/1)
 
 15:00 - 15:30 &nbsp;&nbsp;&nbsp;Break
 
-15:30 - 17:00 &nbsp;&nbsp;&nbsp;
+15:30 - 17:00 &nbsp;&nbsp;&nbsp;[Funding & grant writing](https://github.com/DDD-Moore/early-career-puertorico/issues/2)
 
 17:00 - 18:00 &nbsp;&nbsp;&nbsp;[Beachfront agenda planning](#beach)
 
@@ -53,7 +54,7 @@ _Overlap day with Marine Microbiology Initiative Early Career researchers_
 
 13:30 - 14:15 &nbsp;&nbsp;&nbsp;Keynote: [Kyle Cranmer](http://physics.as.nyu.edu/object/kylecranmer.html), Associate Professor of Physics at NYU 
 
-14:15 - 15:30 &nbsp;&nbsp;&nbsp;[Open Science Panel ](#panel)
+14:15 - 15:30 &nbsp;&nbsp;&nbsp;[Open Science Panel](#panel)
 
 15:30 - 16:00 &nbsp;&nbsp;&nbsp;Break 
 
@@ -92,24 +93,26 @@ _Overlap day with Marine Microbiology Initiative Early Career researchers_
 ---
 
 
-### BOF <a name="bof"></a>
+### Birds of a Feather Breakouts <a name="bof"></a>
 
-Text will be here for the BOFs
+We will break into groups based on interest in possible topics of discussion. **See [Issues](https://github.com/DDD-Moore/early-career-puertorico/issues)** to comment on ideas or add your own topic.
 
 ### Beachfront Agenda Planning <a name="beach"></a>
 
-Text will be here for the beachfront agenda planning
+We will use the end of Tuesday to determine how best to spend our time on Thursday. Why at the beach? Why not?!
 
 ### Poster Activity/Session <a name="poster"></a>
 
-Text will be here for the posters
+We will create posters as a large group based on overlapping areas of research and interest. These posters will be "presented" informally during the joint poster session with MMI on Wednesday.
 
 ### Open Science Panel <a name="panel"></a>
 
-Text will be here for the Panel
+The two keynote speakers for Wednesday (Lang and Cranmer) will be joined by Carly Strasser (DDD) and representatives from the MMI and DDD early career researchers present (to be named). The panel will be an informal Q&A session with heavy audience participation.
 
 ### BioBay Kayak Trip <a name="kayak"></a>
 
 We have planned a kayaking trip to the Laguna Grande bioluminescent bay for the night of Wednesday, June 1. The trip is appropriate for all skill levels, and should take about 2.5 hours including a brief introduction to kayaking and the bio bay ecosystem. We have reserved a spot for all symposium attendees. If for any reason you wish to opt out of this trip, please [let us know](mailto:natalie.caulk@moore.org) asap. More information: [Fajardo Bio Bay](http://www.puertoricodaytrips.com/fajardo-bio-bay/)
 
+## TBD: To Be Determined <a name="tbd"></a>
 
+We will determine as a group how to best use these blocks of time based on the Beachfront Agenda Planning session on Tuesday.
