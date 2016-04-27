@@ -7,6 +7,7 @@
 ### Pages
 
 - [Logistics & Reimbursement](https://github.com/DDD-Moore/early-career-puertorico/blob/master/logistics.md) 
+- [Topics discussion via Issues](https://github.com/DDD-Moore/early-career-puertorico/issues)
 - [Attendees](https://github.com/DDD-Moore/early-career-puertorico/blob/master/attendees.md)
 - [Agenda](https://github.com/DDD-Moore/early-career-puertorico/blob/master/agenda.md) (In progress)
 - [Code of Conduct](https://github.com/DDD-Moore/early-career-puertorico/blob/master/code-of-conduct.md)
