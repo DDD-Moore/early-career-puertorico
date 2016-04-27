@@ -24,7 +24,7 @@ _**We want to hear your ideas for new topics or items already on the agenda. See
 
 12:00 - 13:30	&nbsp;&nbsp;&nbsp;Lunch 
 
-13:30 - 15:00 &nbsp;&nbsp;&nbsp;[Collaborative science](https://github.com/DDD-Moore/early-career-puertorico/issues/1)
+13:30 - 15:00 &nbsp;&nbsp;&nbsp;[Careers](https://github.com/DDD-Moore/early-career-puertorico/issues/4) & [culture change](https://github.com/DDD-Moore/early-career-puertorico/issues/9)
 
 15:00 - 15:30 &nbsp;&nbsp;&nbsp;Break
 
