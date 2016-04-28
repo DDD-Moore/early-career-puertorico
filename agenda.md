@@ -93,8 +93,8 @@ _Overlap day with Marine Microbiology Initiative Early Career researchers_
 
 ---
 
-
-### Birds of a Feather Breakouts <a name="bof"></a>
+<a name="bof"></a>
+### Birds of a Feather Breakouts 
 
 We will break into groups based on interest in possible topics of discussion. **See [Issues](https://github.com/DDD-Moore/early-career-puertorico/issues)** to comment on ideas or add your own topic.
 
