@@ -2,8 +2,6 @@
 
 **_May 31 - June 2, 2016 in Puerto Rico_**
 
-**Attendees should provide flight information by Wed April 20 on [this spreadsheet](https://docs.google.com/spreadsheets/d/1le-bIvt5IEz0-VgrdsQ9QR6wj4zq0YQUzLR2wuQAqSE/edit)**
-
 ### Pages
 
 - [Logistics & Reimbursement](https://github.com/DDD-Moore/early-career-puertorico/blob/master/logistics.md) 
