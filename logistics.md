@@ -1,3 +1,5 @@
+## THE SYMPOSIUM HAS BEEN CANCELED.
+
 ### Time & Place
 
 **When:** May 31 - June 2, 2016 (plan for 1 travel day on either side)
