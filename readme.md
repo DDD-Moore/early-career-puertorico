@@ -1,6 +1,6 @@
 ## THE SYMPOSIUM HAS BEEN CANCELED.
 
-We regret to inform you that we have officially cancelled the upcoming Early-Career Symposium  scheduled for May 30-June 2, 2016. Due to the rising presence of Zika virus in Puerto Rico, the Foundation has determined that the summit should not take place at this time. We apologize for this late change in plans, and we realize that many of you will be disappointed by this decision.
+We regret to inform you that we have officially cancelled the upcoming Early Career Symposium  scheduled for May 30 - June 2, 2016. Due to the rising presence of Zika virus in Puerto Rico, the Foundation has determined that the summit should not take place at this time. We apologize for this late change in plans, and we realize that many of you will be disappointed by this decision.
 
 We hope to reschedule but have not made any decisions yet. Unless you wish to keep your travel plans to Puerto Rico for personal purposes, please cancel your flights. We will reimburse you for any penalties resulting from flight cancellations, but please request a full refund since some airlines are offering full reimbursement for flights to Puerto Rico due to the Zika risk. If there any additional expenses incurred due to this late cancellation, please contact us and we will work with you to resolve the issue.
 
