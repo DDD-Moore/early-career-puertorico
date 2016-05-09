@@ -1,4 +1,4 @@
-**THE SYMPOSIUM HAS BEEN CANCELED.**
+## THE SYMPOSIUM HAS BEEN CANCELED.
 
 We regret to inform you that we have officially cancelled the upcoming Early-Career Symposium  scheduled for May 30-June 2, 2016. Due to the rising presence of Zika virus in Puerto Rico, the Foundation has determined that the summit should not take place at this time. We apologize for this late change in plans, and we realize that many of you will be disappointed by this decision.
 
