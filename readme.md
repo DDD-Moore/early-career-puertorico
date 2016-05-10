@@ -4,8 +4,6 @@ We regret to inform you that we have officially cancelled the upcoming Early Car
 
 We hope to reschedule but have not made any decisions yet. Unless you wish to keep your travel plans to Puerto Rico for personal purposes, please cancel your flights. We will reimburse you for any penalties resulting from flight cancellations, but please request a full refund since some airlines are offering full reimbursement for flights to Puerto Rico due to the Zika risk. If there any additional expenses incurred due to this late cancellation, please contact us and we will work with you to resolve the issue.
 
---
-
 ## Reimbursement for cancellation expenses
 
 [General info](http://thepointsguy.com/2016/02/airlines-offer-refunds-for-zika-impacted-flights/
@@ -28,8 +26,6 @@ You have two options:
 
 _For expenses not related to your flight, please contact us at [ddd@moore.org](mailto:ddd@moore.org)_
 
---
-
 ## Reimbursement procedure (by Wednesday May 25th)
 
 Please submit 
@@ -38,9 +34,11 @@ Please submit
 1. [Moore Early Career Expense Form (xlsx)](https://github.com/DDD-Moore/early-career-puertorico/blob/master/Reimbursement_Form.xlsx?raw=true)
 1. [W-9 Tax form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/W-9.pdf) 
 1. **Either** [CA-590 form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/CA_590.pdf) for California residents **OR** a [CA-587 form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/CA_587.pdf) for non-California residents.
-1. An address or 
+1. _Optional:_ If you would prefer to receive an electronic funds transfer instead of a check, please fill out [this EFT form](https://github.com/DDD-Moore/early-career-puertorico/raw/master/EFT.docx).
+
 
 Email these to [natalie.caulk@moore.org](mailto:natalie.caulk@moore.org) no later than Wednesday, May 25th. 
+
 
 <!-- 
 
