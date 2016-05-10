@@ -4,12 +4,45 @@ We regret to inform you that we have officially cancelled the upcoming Early Car
 
 We hope to reschedule but have not made any decisions yet. Unless you wish to keep your travel plans to Puerto Rico for personal purposes, please cancel your flights. We will reimburse you for any penalties resulting from flight cancellations, but please request a full refund since some airlines are offering full reimbursement for flights to Puerto Rico due to the Zika risk. If there any additional expenses incurred due to this late cancellation, please contact us and we will work with you to resolve the issue.
 
-To request a reimbursement for cancellation fees etc., please submit the forms found on the [Logistics page](https://github.com/DDD-Moore/early-career-puertorico/blob/master/logistics.md#expenses--reimbursement) to [natalie.caulk@moore.org](mailto:natalie.caulk@moore.org).
+--
 
-Sincerely,
-The DDD Team
+## Reimbursement for cancellation expenses
 
+[General info](http://thepointsguy.com/2016/02/airlines-offer-refunds-for-zika-impacted-flights/
+) on how airlines are handling Zika-related cancellations
 
+### Fully refundable airfare
+
+Researcher requests refund. No action required from GBMF.
+
+### Refundable airfare + cancellation fee
+
+Researcher requests refund and pays cancellation fee. GBMF reimburses cancellation fee. 
+
+### Non-refundable airfare
+
+You have two options:
+
+1. Cancel the flight and GBMF will reimburse you for the flight amount 
+1. Change your flight. GBMF will reimburse you for the cancellation fee. If your new ticket is **less than** the flight to Puerto Rico, we will reimburse you the difference.
+
+_For expenses not related to your flight, please contact us at [ddd@moore.org](mailto:ddd@moore.org)_
+
+--
+
+## Reimbursement procedure (by Wednesday May 25th)
+
+Please submit 
+
+1. documentation of your expenses (emails, screen shots, etc.) 
+1. [Moore Early Career Expense Form (xlsx)](https://github.com/DDD-Moore/early-career-puertorico/blob/master/Reimbursement_Form.xlsx?raw=true)
+1. [W-9 Tax form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/W-9.pdf) 
+1. **Either** [CA-590 form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/CA_590.pdf) for California residents **OR** a [CA-587 form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/CA_587.pdf) for non-California residents.
+1. An address or 
+
+Email these to [natalie.caulk@moore.org](mailto:natalie.caulk@moore.org) no later than Wednesday, May 25th. 
+
+<!-- 
 
 ### Pages
 
@@ -19,9 +52,6 @@ The DDD Team
 - [Agenda](https://github.com/DDD-Moore/early-career-puertorico/blob/master/agenda.md) (In progress)
 - [Code of Conduct](https://github.com/DDD-Moore/early-career-puertorico/blob/master/code-of-conduct.md)
 - [Information on Zika](https://github.com/DDD-Moore/early-career-puertorico/blob/master/zika.md)
-
---
-<!-- <a href="http://www.wyndhamriomar.com/"><img src="https://github.com/DDD-Moore/early-career-puertorico/raw/master/hotel.jpg" height="300"></a> -->
 
 ### Basics
 
@@ -34,6 +64,7 @@ We want your help in crafting the event! The agenda will include a few interesti
 We will be co-located with early career researchers from labs funded by the [Moore Marine Microbiology Initiative](https://www.moore.org/programs/science/marine-microbiology-initiative). We will be interacting informally with their group on Tuesday and Thursday (e.g., meals, activities) and more formally on Wednesday. Details to follow.
 
 All attendees at our symposium are required to agree with the following code of conduct. [Read the code of conduct here](https://github.com/DDD-Moore/early-career-puertorico/blob/master/code-of-conduct.md).
+--> 
 
 
 
