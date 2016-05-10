@@ -13,11 +13,11 @@ _[General information](http://thepointsguy.com/2016/02/airlines-offer-refunds-fo
 
 ### Fully refundable airfare
 
-Researcher requests refund. No action required from GBMF.
+You requests refund. No action required from GBMF.
 
 ### Refundable airfare + cancellation fee
 
-Researcher requests refund and pays cancellation fee. GBMF reimburses cancellation fee. 
+You request refund and pay cancellation fee. GBMF reimburses cancellation fee. 
 
 ### Non-refundable airfare
 
