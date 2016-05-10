@@ -6,8 +6,10 @@ We hope to reschedule but have not made any decisions yet. Unless you wish to ke
 
 ## Reimbursement for cancellation expenses
 
-[General info](http://thepointsguy.com/2016/02/airlines-offer-refunds-for-zika-impacted-flights/
-) on how airlines are handling Zika-related cancellations
+_For expenses not related to your flight, please contact us at [ddd@moore.org](mailto:ddd@moore.org)_
+
+_[General information](http://thepointsguy.com/2016/02/airlines-offer-refunds-for-zika-impacted-flights/
+) on how airlines are handling Zika-related cancellations_
 
 ### Fully refundable airfare
 
@@ -23,8 +25,6 @@ You have two options:
 
 1. Cancel the flight and GBMF will reimburse you for the flight amount 
 1. Change your flight. GBMF will reimburse you for the cancellation fee. If your new ticket is **less than** the flight to Puerto Rico, we will reimburse you the difference.
-
-_For expenses not related to your flight, please contact us at [ddd@moore.org](mailto:ddd@moore.org)_
 
 ## Reimbursement procedure (by Wednesday May 25th)
 
