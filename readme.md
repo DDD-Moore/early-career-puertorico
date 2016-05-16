@@ -35,7 +35,7 @@ Please submit
 1. Documentation of your expenses (emails, screen shots, etc.) 
 1. [Moore Early Career Expense Form](https://github.com/DDD-Moore/early-career-puertorico/blob/master/Reimbursement_Form.xlsx?raw=true) (xlsx) [(Google Sheet verision)](https://docs.google.com/spreadsheets/d/1DsrMAy_1gIC22XioGHbILSae07-xy_UpwWFKryeyrv8/edit?usp=sharing)
 1. [W-9 Tax form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/W-9.pdf) 
-1. **Either** [CA-590 form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/CA_590.pdf) for California residents **OR** a [CA-587 form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/CA_587.pdf) for non-California residents.
+1. **Either** [CA-590 form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/CA_590.pdf) for California residents **OR** a [CA-587 form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/CA_587.pdf) for non-California residents. For CA-587, you only need to fill out part II.
 1. _Optional:_ If you would prefer to receive an electronic funds transfer instead of a check, please fill out [this EFT form](https://github.com/DDD-Moore/early-career-puertorico/raw/master/EFT.docx) (docx) [(Google Doc format)](https://docs.google.com/document/d/18mkzG7gixwb_iPW6hAfHxX-JLlMf_0IHnEYZR1jtjFE/edit?usp=sharing).
 
 
