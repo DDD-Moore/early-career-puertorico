@@ -21,7 +21,7 @@ Please book your flights as soon as possible, and provide your flight details on
 
 You will be required to fill out an expense form after the event. Please submit the following **three forms**:
 
-- [Moore Early Career Expense Form (xlsx)](https://github.com/DDD-Moore/early-career-puertorico/blob/master/Reimbursement_Form.xlsx?raw=true)
+- [Moore Early Career Expense Form](https://github.com/DDD-Moore/early-career-puertorico/blob/master/Reimbursement_Form.xlsx?raw=true) (xlsx) or [Google Doc version](https://docs.google.com/spreadsheets/d/1DsrMAy_1gIC22XioGHbILSae07-xy_UpwWFKryeyrv8/edit#gid=0)
 - [W-9 Tax form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/W-9.pdf) 
 - **Either** [CA-590 form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/CA_590.pdf) for California residents **OR** a [CA-587 form (PDF)](https://github.com/DDD-Moore/early-career-puertorico/raw/master/CA_587.pdf) for non-California residents.
 
